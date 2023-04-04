@@ -41,7 +41,7 @@ h2{
     font-family: Garamond, serif;
 }
 button{
-    background-color:darkgreen;
+    background-color:#004953;
     color: white;
     align-items: center;
     font-size: 15px;
@@ -101,25 +101,29 @@ p{
     text-decoration: none;
     margin-top: 50px;
 color:black;
+font-weight: bold;
 }
 .forget{
     text-align: center;
     text-decoration: none;
     color: black;
     margin-bottom:10px ;
+    font-weight: bold;
 }
 
 .down{
     align-items: center;
     margin-top: 20px;
     margin-bottom: 10px;
+   
     
 }
 .forget:hover{
-    color: blue;
+    color: #004953;
     transition: 0.1s ease-in-out;
+    
 }
 .new:hover{
-    color: blue;
+    color: #004953;
     transition: 0.1s ease-in-out;
 }
